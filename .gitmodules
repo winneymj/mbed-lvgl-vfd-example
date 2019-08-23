@@ -1,0 +1,3 @@
+[submodule "mbed-lvgl"]
+	path = mbed-lvgl
+	url = git@github.com:AGlass0fMilk/mbed-lvgl.git
