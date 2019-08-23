@@ -1,0 +1,16 @@
+{
+    "target_overrides": {
+        "*": {
+            "mbed-lvgl.horizontal_res": 128,
+	    "mbed-lvgl.vertical_res": 64,
+	    "mbed-lvgl.color_depth": 1,
+	    "mbed-lvgl.antialias": 0,
+	    "mbed-lvgl.use_theme_mono": 1,
+	    "mbed-lvgl.enable_canvas": 0,
+	    "mbed-lvgl.enable_font_roboto_16": 0,
+	    "mbed-lvgl.enable_font_unscii_8": 1,
+	    "mbed-lvgl.default_font": "&lv_font_unscii_8"
+	    
+        }
+    }
+}
