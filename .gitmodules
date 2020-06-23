@@ -1,3 +1,7 @@
 [submodule "mbed-os"]
 	path = mbed-os
 	url = https://github.com/ARMmbed/mbed-os
+[submodule "mbed-lvgl"]
+	path = mbed-lvgl
+	url = https://github.com/winneymj/mbed-lvgl.git
+	branch = master
